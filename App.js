@@ -68,7 +68,7 @@ const RootStack = createStackNavigator(
     // }
   },
   {
-    initialRouteName: 'HomeScreen',
+    initialRouteName: 'Home',
     headerMode : 'none'
   }
 );
